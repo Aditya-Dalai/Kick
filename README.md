@@ -4,12 +4,20 @@ A responsive and fun portfolio website themed on **Kick Buttowski: Suburban Dare
 
 ---
 
+## 🔗 Visit the Website
+
+👉 [Click here to explore the site!](https://aditya-dalai.github.io/Kick-Buttowski-Portfolio/) 👈 
+
+Dive straight into Kick's world and experience the thrill of this professional yet fun-themed portfolio.
+
+---
+
 ## 🛠️ Built With
 
 - HTML5  
 - CSS3 (Flexbox, Media Queries)  
 - Vanilla JavaScript  
-- Images from "Kick Buttowski: Suburban Daredevil" TV show  
+- Images from the "Kick Buttowski: Suburban Daredevil" TV show  
 
 ---
 
