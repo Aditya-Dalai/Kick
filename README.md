@@ -1,4 +1,4 @@
-# 🛹🤘🏻 Kick Buttowski Portfolio Website
+# 🛹🤘🏻 Kick Buttowski's Portfolio Website
 
 A responsive and fun portfolio website themed on **Kick Buttowski: Suburban Daredevil**, built using only **HTML**, **CSS**, and **JavaScript**. This project showcases a dynamic and visually engaging web page dedicated to the legendary daredevil himself.
 
@@ -9,7 +9,7 @@ A responsive and fun portfolio website themed on **Kick Buttowski: Suburban Dare
 - HTML5  
 - CSS3 (Flexbox, Media Queries)  
 - Vanilla JavaScript  
-- Images from Kick Buttowski TV show  
+- Images from "Kick Buttowski: Suburban Daredevil" TV show  
 
 ---
 
